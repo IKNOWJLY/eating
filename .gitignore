@@ -1,0 +1,12 @@
+*.class
+*.pyc
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# node_modules
+node_modules/
+
+
